@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: eks-example
-        image: 106347673261.dkr.ecr.us-west-2.amazonaws.com/sourcerepo:4b6a07d5
+        image: 106347673261.dkr.ecr.us-west-2.amazonaws.com/sourcerepo:1828e06a
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
